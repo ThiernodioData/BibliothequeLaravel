@@ -37,12 +37,18 @@ Voici quelques captures d'écran de l'interface utilisateur :
 
 ### 🏠 Page d’accueil (Liste des livres)
 ![Page d'accueil](public/assets/screenshots/Screenshot-1.png)
+![Page d'accueil](public/assets/screenshots/Screenshot-2.png)
+![Page d'accueil](public/assets/screenshots/Screenshot-3.png)
+![Page d'accueil](public/assets/screenshots/Screenshot-4.png)
+![Page d'accueil](public/assets/screenshots/Screenshot-5.png)
 
 ### 📖 Détails d’un livre avec avis
-![Détails livre](public/assets/screenshots/Screenshot-1.png)
+![Détails livre](public/assets/screenshots/Screenshot-6.png)
+![Détails livre](public/assets/screenshots/Screenshot-7.png)
+![Détails livre](public/assets/screenshots/Screenshot-8.png)
 
 ### 📝 Formulaire d'ajout d'avis
-![Formulaire avis](public/assets/screenshots/Screenshot-1.png)
+![Formulaire avis](public/assets/screenshots/Screenshot-9.png)
 
 
 
@@ -131,5 +137,7 @@ Base de données : Sqlite
 Outils : Laravel Seeder, Eloquent ORM, Laravel Validation
 
 👤 Auteur
+
 Développé par ThiernoDio
+https://github.com/ThiernodioData
 
